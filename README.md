@@ -14,8 +14,13 @@ This repository contains a computer vision pipeline for detecting basketballs, c
 ### Player Position Estimation:
 * Uses MediaPipe's pose estimation models to estimate the position of players within the frame.
 * Provides coordinates or bounding boxes indicating the location of players relative to the basketball.
-
 ## Usage
+
+## Outputs
+
+![App Screenshot](https://github.com/prxbhu/Computer-Vision-Assignment/blob/main/Assets/Output1.png)
+![App Screenshot](https://github.com/prxbhu/Computer-Vision-Assignment/blob/main/Assets/Output2.png)
+![App Screenshot](https://github.com/prxbhu/Computer-Vision-Assignment/blob/main/Assets/Output3.png)
 
 Clone this repo:
 
@@ -29,7 +34,5 @@ Install Dependencies:
 ```bash
   pip install -r requirements.txt
 ```
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
