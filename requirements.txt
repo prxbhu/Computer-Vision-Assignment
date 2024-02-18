@@ -1,0 +1,6 @@
+opencv-python
+numpy
+collections
+imutils
+TIME-python
+mediapipe
