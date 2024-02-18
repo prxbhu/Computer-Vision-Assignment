@@ -1,11 +1,19 @@
-# Computer-Vision-Assignment
-Basketball Analysis
-Usage
-Clone this repo and pull YOLOv5 code:
 
-git clone https://github.com/Stardust87/basketball-detection
-cd basketball-detection
-git submodule update --init
-Install dependencies:
+# Computer Vision Assignment
+Basketball Detection and Analysis
 
-pip install -r requirements.txt
+
+## Usage
+
+Clone this repo:
+
+```bash
+  https://github.com/prxbhu/Computer-Vision-Assignment.git
+  cd my-project
+  cd Computer-Vision-Assignment
+```
+Install Dependencies:
+
+```bash
+  pip install -r requirements.txt
+```
